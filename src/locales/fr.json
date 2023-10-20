@@ -1,0 +1,328 @@
+{
+  "BeneficialOwnerDeclaration": {
+    "button": "Continuer",
+    "header": "Déclaration du bénéficiaire effectif",
+    "q1": {
+      "label": {
+        "adult": "Je déclare que je suis le bénéficiaire effectif des actions / parts achetées.",
+        "minor": "Je déclare / Nous déclarons que le mineur est le bénéficiaire effectif des actions / parts achetées."
+      }
+    },
+    "q2": {
+      "label": "S'il vous plaît, expliquez"
+    }
+  },
+  "BirthCertificate": {
+    "button": "Continuer",
+    "header": "Certificat de naissance",
+    "q1": {
+      "birthCertificateFile": "Acte de naissance du mineur"
+    },
+    "subheaderHTML": "<p> Veuillez télécharger le certificat de naissance ou le document d'identification du mineur. </p> <p> Le document d'identification doit être: <ul> <li> Délivré par un organisme gouvernemental, </li> <li> Valide (c'est-à-dire non expiré). </li></ul></p> <p> Le document d'identification doit inclure les détails suivants: <ul> <li> Nom complet du client </li> <li> Signature du client </li> <li> Date du client et lieu de naissance </li> <li> Photo du client </li> <li> Numéro du document </li> </ul> </p>"
+  },
+  "Clarification": {
+    "addDocument": "Ajouter des documents",
+    "button": "Continuer",
+    "header": "Précision",
+    "q1": {
+      "businessOwnership": "Détails relatifs aux participations dans une société",
+      "businessProfit": "Détails relatifs au bénéfice de l’entreprise / l’activité",
+      "familyIncome": "Détails relatifs aux revenus du foyer",
+      "inheritance": "Détails relatifs à l’héritage",
+      "investmentProfit": "Détails relatifs à la plus-value sur investissement / au revenu de dividendes",
+      "lottery": "Détails relatifs aux gains de loterie",
+      "other": "Détails relatifs aux autres revenus",
+      "rentalIncome": "Détails relatifs au revenu locatif",
+      "saleOfCompany": "Détails relatifs à la vente d’une entreprise / activité",
+      "saleOfProperty": "Détails relatifs à la vente d'un bien immobilier"
+    },
+    "q2": {
+      "help": "Veuillez noter que sans pièces justificatives suffisantes, il se peut que nous vous contactions pour obtenir des précisions.",
+      "label": "Documents pris en charge"
+    },
+    "sources": {
+      "businessOwnership": "Veuillez fournir les coordonnées de la société (nom, adresse, extrait du registre des sociétés, nature de l'activité), la relation avec la société (pourcentage de participation dans la société), des copies des derniers états financiers révisés, des comptes de gestion les plus récents, des déclaration fiscales.",
+      "businessProfit": "Veuillez fournir les coordonnées de la société (nom, adresse, extrait du registre des sociétés, nature de l'activité), la relation avec la société (pourcentage de participation dans la société), des copies des derniers états financiers révisés, des comptes de gestion les plus récents, des déclaration fiscales.",
+      "familyIncome": "Veuillez indiquer la relation avec la personne qui a financé l'investissement et la profession du financeur.",
+      "inheritance": "Veuillez confirmer le montant hérité, la date d'héritage, le nom, l'adresse de l'exécuteur testamentaire, la relation avec le défunt et un justificatif d'attribution (avec une copie du testament) qui doit inclure la valeur de la succession, ou des relevés de compte ou une attestation de notaire.",
+      "investmentProfit": "Veuillez fournir un relevé de compte de l’agent, un relevé ou une confirmation d’opération (avis d’opéré).",
+      "lottery": "Veuillez déclarer le montant total des gains, la date des gains, le nom et l'adresse de l'organisation ayant attribué les gains et fournir une attestation ou, le cas échéant, des copies de la couverture média de la part de l'organisation ayant attribué les gains.",
+      "other": "Veuillez fournir une copie du contrat, un relevé de compte de l'agent, un relevé ou une confirmation d'opération (avis d'opéré).",
+      "rentalIncome": "Veuillez fournir une copie du contrat.",
+      "saleOfCompany": "Veuillez déclarer le nom, l'objet social de la société /entreprise, la date de cession, le montant de la vente et fournir une attestation signée d'un avocat ou comptable, ou des copies de la couverture média le cas échéant.",
+      "saleOfProperty": "Veuillez fournir l'adresse du bien, la date et le montant de la vente et une attestation signée d'un avocat ou le contrat de vente."
+    },
+    "subheader": "Veuillez fournir des informations supplémentaires en fonction de vos réponses précédentes :"
+  },
+  "CustomerInformation": {
+    "button": "Continuer",
+    "caseId": "Numéro de dossier",
+    "caseIdHelp": "Veuillez vous référer au numéro de dossier du formulaire d'information client.",
+    "error": {
+      "caseId": "L'identifiant doit être composé de caractères alphabétiques suivis de 9 chiffres sans espaces ni caractères spéciaux"
+    },
+    "header": "Information client",
+    "isMinor": "Veuillez confirmer si les informations saisies ci-dessus appartiennent à un investisseur mineur",
+    "partyNumberHelp": "Veuillez vous référer à vos relevés et documents de confirmation de transaction de Franklin Templeton pour localiser votre numéro de référence client.",
+    "shareholderName": "Nom du client",
+    "shareholderNameHelp": "Veuillez saisir le nom du client conformément au document d'identification.",
+    "shareholderPartyNumber": "Numéro de référence du client"
+  },
+  "EmailVerification": {
+    "button": {
+      "getCode": "Obtenir le code",
+      "resend": "Renvoyer",
+      "skip": "Sauter",
+      "verify": "Vérifier"
+    },
+    "error": {
+      "confirmationCode": "Veuillez saisir un code valide",
+      "email": "Veuillez saisir une adresse email valide"
+    },
+    "header": "Vérification de l'adresse email",
+    "q1": {
+      "label": "Adresse email"
+    },
+    "q2": {
+      "label": "Code de confirmation"
+    },
+    "subheader": "Cet Email peut être utilisé par Franklin Templeton pour toute correspondance future liée à vos investissements. Il ne sera pas utilisé à des fins de marketing."
+  },
+  "Error": {
+    "button": "Recommencer",
+    "header": "Erreur",
+    "type": {
+      "bad_customer_id": {
+        "description": "Veuillez utiliser un lien correct pour commencer",
+        "title": "L’identifiant Client n’a pas été fourni"
+      },
+      "check-failed": {
+        "description": "Vous avez essayé à de trop nombreuses reprises avec le même numéro de téléphone. Veuillez patienter un moment ou contacter le service client.",
+        "title": "Limite d'essais atteinte"
+      },
+      "limit-reached": {
+        "description": "Vous avez essayé à de trop nombreuses reprises avec le même numéro de téléphone. Veuillez patienter un moment ou contacter le service client.",
+        "title": "Limite d'essais atteinte"
+      },
+      "network_error": {
+        "description": "Veuillez vérifier votre connexion Internet et réessayer.",
+        "title": "Pas de connexion Internet"
+      },
+      "universal": {
+        "description": "Veuillez réessayer. Si le problème persiste, merci de contacter le service client."
+      }
+    }
+  },
+  "Intro": {
+    "body": "<p> Merci d'avoir choisi de soumettre vos informations Know Your Customer (KYC) en ligne. </p> <p> Vous serez guidé(e) à travers une série d'étapes où il vous sera demandé de télécharger les informations / documents requis. Veuillez noter que pour tous les documents d'identité que vous téléchargez, seules les images en couleur peuvent être acceptées. Veuillez vous référer aux instructions qui vous ont été fournies par courrier / e-mail et avoir les informations / documents requis à portée de main avant de continuer.</p><p>Vous aurez la possibilité de prendre une photo d'autoportrait pour la vérification biométrique du visage. Votre image sera capturée automatiquement et utilisée à des fins de vérification uniquement. Cela nous permet ensuite de faire correspondre la copie d'identité que vous avez téléchargée avec l'image capturée. Il s'agit de notre option recommandée car elle accélère le processus de vérification et élimine la possibilité que vous ayez à nous soumettre d'autres documents d'identité sur papier.</p>",
+    "button": "ACCEPTER ET CONTINUER",
+    "header": "Salut"
+  },
+  "Netverify": {
+    "CTA": "Veuillez avoir votre document d'identité à disposition et cliquez sur démarrer.",
+    "button": "Commencer",
+    "header": "Commencer la vérification",
+    "q1": {
+      "idAndFace": "Vérifier avec votre document d'identité et vérification biométrique (option recommandée)",
+      "idAndFaceHint": "Après avoir numérisé /téléchargé votre document d'identité, il vous sera demandé de montrer votre visage à la caméra de votre appareil où, grâce à la détection en direct, votre présence est vérifiée et votre image est capturée automatiquement. Notre technologie de vérification faciale offre une précision d'identification optimale et nous permet de faire correspondre la copie d'identité téléchargée avec l'image capturée. Cela accélérera le processus de vérification et éliminera la possibilité que vous ayez à nous soumettre une copie certifiée conforme par la suite.",
+      "idOnly": "Vérifier uniquement avec votre document d'identité",
+      "idOnlyHint": "Cette option vous oblige uniquement à numériser / télécharger votre pièce d'identité et vous ne serez pas dirigé vers la partie «Vérification du visage» du processus. Une fois que nous avons examiné la copie numérisée de votre pièce d'identité, nous pouvons être amenés à vous contacter pour demander une vérification supplémentaire, c'est-à-dire de nous envoyer une copie certifiée conforme de votre pièce d'identité.",
+      "label": "Veuillez sélectionner l'une des deux options"
+    },
+    "subheaderHTML": "<p> Pour vérifier votre identité, nous vous demandons de télécharger une photo ou une image numérisée de votre pièce d'identité. </p>"
+  },
+  "PhoneVerification": {
+    "button": {
+      "getCodeViaSMS": "Obtenir le code",
+      "getCodeViaCall": "Obtenir le code par appel téléphonique",
+      "resend": "Renvoyer",
+      "verify": "Vérifier"
+    },
+    "error": {
+      "confirmationCode": "Veuillez saisir un code valide",
+      "phoneNumber": "S'il vous plaît entrez un numéro de téléphone valide"
+    },
+    "header": "Vérification du numéro de téléphone mobile",
+    "q1": {
+      "help": "Veuillez saisir le numéro de téléphone mobile pour lequel vous souhaitez obtenir un code de confirmation à 6 chiffres.",
+      "label": "Numéro de téléphone",
+      "placeholder": "Numéro de téléphone portable"
+    },
+    "q2": {
+      "label": "Code de confirmation"
+    },
+    "subheader": "Ce numéro peut être utilisé par Franklin Templeton pour toute correspondance future liée à vos investissements. Il ne sera pas utilisé à des fins de marketing.",
+    "timeLeft": "Le code expire dans"
+  },
+  "Profession": {
+    "button": "Continuer",
+    "header": {
+      "adult": "Profession et industrie",
+      "minor": "Informations de tiers"
+    },
+    "q1": {
+      "aunt": "Tante",
+      "brother": "Frère",
+      "grandparent": "Grand-parent",
+      "label": "Veuillez déclarer une relation de tiers avec un mineur",
+      "sister": "Sœur",
+      "uncle": "Oncle"
+    },
+    "q2": {
+      "employed": "En activité",
+      "label": {
+        "adult": "Veuillez préciser si vous êtes actuellement",
+        "minor": "Veuillez préciser que le tiers est actuellement"
+      },
+      "retired": "Retraité",
+      "unemployed": "En recherche d’emploi / Homme ou femme au foyer / étudiant"
+    },
+    "q3": {
+      "label": {
+        "employed": "Métier",
+        "retired": "Profession avant la retraite"
+      }
+    },
+    "q4": {
+      "artDealership": "Art, antiquaire / maison de ventes",
+      "carDealership": "Concessionnaire automobile, bateau, avion",
+      "casinos": "Casinos, établissements de jeux / clubs de cartes",
+      "charities": "Organismes de bienfaisance / fondations / dotations",
+      "civilConstruction": "Construction civile",
+      "defense": "La défense",
+      "fintech": "Services d'actifs crypto / Fintech",
+      "jewelDealership": "Bijoux (c.-à-d. Diamants), concession de métaux précieux",
+      "label": {
+        "employed": {
+          "adult": "Je déclare être employé dans au moins un des secteurs suivants",
+          "minor": "Un tiers est employé dans au moins l'un des secteurs suivants"
+        },
+        "retired": {
+          "adult": "Industrie avant la retraite",
+          "minor": "Industrie avant la retraite"
+        }
+      },
+      "mining": "Exploitation minière",
+      "moneyChanger": "Bureau de change, émetteur / prêteur sur gages",
+      "none": "Aucune de ces réponses",
+      "nuclear": "Secteur nucléaire",
+      "oil": "Pétrole, pétrole, gaz",
+      "realEstate": "Courtage immobilier",
+      "transport": "Transport / expédition",
+      "travelAgency": "Agence de voyage"
+    },
+    "q5": {
+      "label": "Veuillez préciser"
+    }
+  },
+  "ProofOfAddress": {
+    "button": "Continuer",
+    "header": "Preuve d'adresse de résidence",
+    "proofRequirmentsHTML": "<p> La preuve d'adresse doit être lisible et valide. </p> <p> L'un des documents ci-dessous contenant l'adresse résidentielle peut être fourni comme preuve d'adresse: <ul> <li> Dernières factures - Facture de téléphone / Facture Internet / Facture d'électricité / Facture de services publics </li> <li> Contrat de location / Contrat de location certifié </li> <li> Dernier avis de cotisation d'impôt sur le revenu </li> <li> Dernier relevé bancaire / Autre document officiel / Un document officiel du gouvernement indiquant clairement le nom complet et l'adresse résidentielle de l'investisseur </li> <li> Lettre de confirmation de l'employeur / banque de l'investisseur / comptable agréé / Avocat. </li> </li>",
+    "q1": {
+      "southAfricaResident": {
+        "adult": "Je réside en Afrique du Sud",
+        "minor": "Minor réside en Afrique du Sud"
+      }
+    },
+    "q2": {
+      "usingPoBox": {
+        "adult": "J'utilise une boîte postale ou une adresse de correspondance",
+        "minor": "Minor utilise une boîte postale ou une adresse de correspondance"
+      }
+    },
+    "q3": {
+      "proofOfAddressFile": "Justificatif de domicile"
+    },
+    "subheader": "Un justificatif de domicile est requis si l'une des options ci-dessous est \"oui\""
+  },
+  "Review": {
+    "button": "Soumettre",
+    "clarification": {
+      "supported_files": {
+        "not_provided": "Non fourni",
+        "title": "Fichier téléchargé",
+        "uploaded": "téléchargé"
+      }
+    },
+    "disclaimer": "Je m'engage à informer immédiatement Franklin Templeton en cas de changement de la ou des personnes désignées comme bénéficiaires effectifs et à veiller à ce que toute information et tout document fourni à Franklin Templeton ou à l'Intermédiaire reste exact et actualisé.",
+    "disclaimer_0": "J’accepte et reconnais qu’en vertu des législations et réglementations concernées, Franklin Templeton peut communiquer les informations ci-dessus à un régulateur compétent ou à une autorité compétente si nécessaire.",
+    "header": "Réviser",
+    "intoTitle": "Les informations ci-dessous ont été collectées",
+    "question": {
+      "employment": "Statut d'emploi",
+      "isBeneficialOwner": {
+        "adult": "Je suis le bénéficiaire effectif des actions / parts achetées",
+        "minor": "Le mineur est le bénéficiaire effectif des actions / parts achetées"
+      },
+      "isMinor": "Est un investisseur mineur",
+      "phoneNumber": "Numéro de téléphone",
+      "profession": "Profession",
+      "relationship": "Relation de tiers avec un mineur",
+      "sector": "Industrie",
+      "sourceOfWealth": "Source de revenus",
+      "whoProvidedMoney": "Qui a fourni de l'argent pour l'investissement"
+    },
+    "subheader": "Nous confirmons par la présente que les informations fournies ici sont exactes, correctes et complètes et que les documents soumis avec ce formulaire sont lisibles."
+  },
+  "SourceOfFunds": {
+    "button": "Continuer",
+    "header": "Source de revenus",
+    "q1": {
+      "label": "Veuillez indiquer qui a fourni de l'argent pour l'investissement",
+      "legalGuardian": "Tuteur légal",
+      "minor": "Mineur",
+      "thirdParty": "Tierce personne"
+    },
+    "q2": {
+      "businessOwnership": "Revenu de participations dans une société",
+      "businessProfit": "Bénéfice de l’entreprise / l’activité",
+      "familyIncome": "Revenus du foyer",
+      "familyIncomeHint": "Sélectionner cette option si vous êtes au foyer et que la source des fonds est attribuable aux revenus générés par votre conjoint(e) ou si vous êtes un étudiant dont l’investissement est financé par les parents / grands-parents.",
+      "income": "Revenu",
+      "inheritance": "Héritage",
+      "investmentProfit": "Plus-value sur investissement / Revenu de dividendes",
+      "label": "Veuillez indiquer la source de revenus  pour les investissements avec Franklin Templeton",
+      "lottery": "Loterie",
+      "other": "Autres revenus",
+      "otherHint": "ex : revenus locatifs, revenus financiers/dividendes, cession d'actions ou autres investissements",
+      "professionalIncome": "Revenus professionnels / pension de retraite",
+      "professionalIncomeHint": "Si vous êtes retraité et que vos investissements ont été effectués avant la retraite, le revenu sera considéré être celui issu de vos activités professionnelles au moment de l'investissement.",
+      "rentalIncome": "Revenu locatif",
+      "saleOfCompany": "Vente d'une entreprise / entreprise",
+      "saleOfProperty": "Vente d'une propriété"
+    },
+    "q3": {
+      "label": "Veuillez préciser la source de revenus"
+    },
+    "subheader": "Cette mention concerne la source des fonds utilisés pour financer les investissements dans les Fonds au moment où ils ont été effectués."
+  },
+  "ThankYou": {
+    "header": "Merci",
+    "text": "<p> Merci d'avoir soumis vos informations. </p> <p> Nous examinerons votre soumission et si quelque chose n'est pas clair ou si quelque chose de plus est nécessaire, nous vous contacterons en utilisant le numéro de téléphone et / ou l'adresse e-mail que vous avez fournis. </p>"
+  },
+  "attachFile": "Joindre un fichier",
+  "errors": {
+    "bad_customer_id": {
+      "description": "Veuillez utiliser un lien valide pour démarrer le processus.",
+      "title": "Numéro client non valide"
+    }
+  },
+  "idVerificationStatus": {
+    "failed": "erreur",
+    "inProgress": "en cours",
+    "retryAction": "Recommencer",
+    "retryHTML": "Désolé, nous n'avons pas pu vérifier votre document. Veuillez vous assurer que votre document est valide et lisible.",
+    "title": "Document d'identité",
+    "verified": "vérifié",
+    "waitHTML": "Veuillez patienter, cela peut prendre quelques minutes. <br /> Ne fermez pas cette page!"
+  },
+  "no": "Non",
+  "step": "Étape {stepNumber} sur 7",
+  "uploaded": "Téléchargé",
+  "validation": {
+    "requiredInput": "C'est un champ obligatoire",
+    "requiredRadio": "Veuillez sélectionner l'une des options ci-dessus"
+  },
+  "yes": "Oui"
+}

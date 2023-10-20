@@ -1,0 +1,328 @@
+{
+  "BeneficialOwnerDeclaration": {
+    "button": "Continue",
+    "header": "Beneficial Owner Declaration",
+    "q1": {
+      "label": {
+        "adult": "I declare that I am the beneficial owner of the purchased Shares / Units.",
+        "minor": "I / We declare that the Minor is the beneficial owner of the purchased Shares / Units."
+      }
+    },
+    "q2": {
+      "label": "Please explain"
+    }
+  },
+  "BirthCertificate": {
+    "button": "Continue",
+    "header": "Minor’s Identification document",
+    "q1": {
+      "birthCertificateFile": "Minor’s Birth certificate or Identification document"
+    },
+    "subheaderHTML": "<p>Please upload Minor’s Birth certificate or Identification document.</p><p>Identification document must be: <ul><li>Issued by a government body,</li><li>Valid (i.e. not expired).</li></ul></p><p>Identification document should include the following details:<ul><li>Client full name</li><li>Client date and place of birth</li><li>Photo of the client</li><li>Document number</li><li>Expiry date (if applicable)</li><li>Client signature (if applicable)</li></ul></p>"
+  },
+  "Clarification": {
+    "addDocument": "Add documents",
+    "button": "Continue",
+    "header": "Clarification",
+    "q1": {
+      "businessOwnership": "Income from business ownership details",
+      "businessProfit": "",
+      "familyIncome": "Family income details",
+      "inheritance": "Inheritance / gift details",
+      "investmentProfit": "Profit from investment / dividend income details",
+      "lottery": "",
+      "other": "Other incomes details",
+      "rentalIncome": "Rental income details",
+      "saleOfCompany": "Sale of a company / business details",
+      "saleOfProperty": "Sale of a property details"
+    },
+    "q2": {
+      "help": "Please note that without sufficient supporting document(s), we may contact you for further clarification.",
+      "label": "Supported documents"
+    },
+    "sources": {
+      "businessOwnership": "Please provide details of company (name, address, search of company registry, nature of business), relationship with the company (percentage of the company ownership), copy of latest audited financial statements, copy of latest management accounts, Tax declaration form.",
+      "businessProfit": "",
+      "familyIncome": "Please provide what is the relationship with the person who funded the investment and profession of the funder.",
+      "inheritance": "Please provide the amount inherited, the date of the inheritance, the name, address of the executor of the estate, the relation to benefactor and a Grant of Probate (with a copy of the will) which must include the value of the estate, or bank statements or solicitor's letter.",
+      "investmentProfit": "Please provide statement of the account from agent, transaction receipt/confirmation (contract note).",
+      "lottery": "",
+      "other": "Please provide evidence of the origin of the funds (e.g. for lottery, please state the total award amount, the date of the award, the name and address of the organisation who granted the award and provide a letter or copies of media coverage if appropriate from the relevant organisation who granted the award).",
+      "rentalIncome": "Please provide copy of contract.",
+      "saleOfCompany": "Please state the name, business purpose of the company / business, date of sale, amount realised and provide a signed letter from a solicitor, or accountant, or copies of media coverage if applicable.",
+      "saleOfProperty": "Please provide the address of the property, the date property was sold, the amount realised and a signed letter from solicitor or completed sale contract."
+    },
+    "subheader": "Please provide additional information based on your previous answers:"
+  },
+  "CustomerInformation": {
+    "button": "Continue",
+    "caseId": "Case ID",
+    "caseIdHelp": "Please refer to the Case ID from the Customer Information Form.",
+    "error": {
+      "caseId": "Case Id should be an alphabet followed by 9 digits with no spaces and special characters"
+    },
+    "header": "Client Information",
+    "isMinor": "Please confirm if the above entered details belong to a Minor Investor (a person under the age of legal responsibility represented by a legal guardian)",
+    "partyNumberHelp": "Please refer to your statements and transaction confirmation documents from Franklin Templeton to locate your Client Reference Number.",
+    "shareholderName": "Client Name",
+    "shareholderNameHelp": "Please enter the client name as per the identification document.",
+    "shareholderPartyNumber": "Client Reference Number"
+  },
+  "EmailVerification": {
+    "button": {
+      "getCode": "Get Code",
+      "resend": "Resend",
+      "skip": "Skip",
+      "verify": "Verify"
+    },
+    "error": {
+      "confirmationCode": "Please enter a valid code",
+      "email": "Please enter a valid Email ID"
+    },
+    "header": "Email ID Verification",
+    "q1": {
+      "label": "Email ID"
+    },
+    "q2": {
+      "label": "Confirmation Code"
+    },
+    "subheader": "This Email ID may be used by Franklin Templeton for future correspondence related to your investments. It will not be used for marketing purposes."
+  },
+  "Error": {
+    "button": "Retry",
+    "header": "Error",
+    "type": {
+      "bad_customer_id": {
+        "description": "Please use a correct link to start.",
+        "title": "Customer ID not provided"
+      },
+      "check-failed": {
+        "description": "You have tried too many times to pass this step with the same mobile phone number. Please wait a bit or contact the customer support.",
+        "title": "Limit reached"
+      },
+      "limit-reached": {
+        "description": "You have tried too many times to pass this step with the same mobile phone number. Please wait a bit or contact the customer support.",
+        "title": "Limit reached"
+      },
+      "network_error": {
+        "description": "Please check your internet connectivity and try again.",
+        "title": "No internet connection"
+      },
+      "universal": {
+        "description": "Please retry. If an issue persists please contact the customer support."
+      }
+    }
+  },
+  "Intro": {
+    "body": "<p>Thank you for choosing to submit your Know Your Customer (KYC) details online. </p><p>You will be taken through a series of steps where you will be asked to upload the required information / documents. Please note that for any ID documents you upload, only colour images can be accepted. Please refer to the instructions provided to you via post / email and have the required information / documents to hand before proceeding further.</p><p>You will be presented with the option to take a self-portrait photograph for biometric face verification. Your image will be captured automatically and used for verification purposes only. This then enables us to match the ID copy you have uploaded against the image captured. This is our recommended option as it speeds up the verification process and eliminates the possibility of you needing to submit further physical hard copy identity documents to us.</p>",
+    "button": "ACCEPT AND CONTINUE",
+    "header": "Hello"
+  },
+  "Netverify": {
+    "CTA": "Please have your ID ready and click start.",
+    "button": "Start",
+    "header": "Start verification",
+    "q1": {
+      "idAndFace": "Verify with ID and Biometric Face Verification (This is our recommended option)",
+      "idAndFaceHint": "After scanning / uploading your ID document you will be asked to show your face to the online camera where through live detection your presence is checked, and your image is captured automatically. Our face verification technology provides optimal identification accuracy and enables us to match the ID copy uploaded against the image captured. This will speed up the verification process and eliminate the possibility of you needing to submit hard copy identity documents to us.",
+      "idOnly": "Verify only with ID",
+      "idOnlyHint": "This option requires you to only scan / upload your ID document and you will not be taken through the ‘Face Verification’ part of the process. After we have reviewed the scanned copy of your identity document, we may be required to reach out to you to request further verification which could include asking you to send us a certified true copy of your ID document.",
+      "label": "Please select any one of the two options"
+    },
+    "subheaderHTML": "<p>To verify your identity, we require you to upload a photo or a scanned image of your identity document. Valid identity document should include the following details:</p><ul><li>Client full name</li><li>Client date and place of birth</li><li>Photo of the client</li><li>Document number</li><li>Expiry date (if applicable)</li><li>Client signature (if applicable)</li></ul>"
+  },
+  "PhoneVerification": {
+    "button": {
+      "getCodeViaSMS": "Get Code",
+      "getCodeViaCall": "Get Code via Phone Call",
+      "resend": "Resend",
+      "verify": "Verify"
+    },
+    "error": {
+      "confirmationCode": "Please enter a valid code",
+      "phoneNumber": "Please enter a valid phone number"
+    },
+    "header": "Mobile Phone Number Verification",
+    "q1": {
+      "help": "Please enter the Mobile Phone Number that you’d like to get a 6-digit confirmation code.",
+      "label": "Phone Number",
+      "placeholder": "Mobile Phone Number"
+    },
+    "q2": {
+      "label": "Confirmation Code"
+    },
+    "subheader": "This number may be used by Franklin Templeton for future correspondence related to your investments. It will not be used for marketing purposes.",
+    "timeLeft": "Code expires in"
+  },
+  "Profession": {
+    "button": "Continue",
+    "header": {
+      "adult": "Profession and Industry",
+      "minor": "Third Party information"
+    },
+    "q1": {
+      "aunt": "Aunt",
+      "brother": "Brother",
+      "grandparent": "Grandparent",
+      "label": "Please declare Third Party relationship to a Minor",
+      "sister": "Sister",
+      "uncle": "Uncle"
+    },
+    "q2": {
+      "employed": "Employed",
+      "label": {
+        "adult": "Please specify if You are currently",
+        "minor": "Please specify Third Party is currently"
+      },
+      "retired": "Retired",
+      "unemployed": "Unemployed / Homemaker / Student"
+    },
+    "q3": {
+      "label": {
+        "employed": "Profession (including official job title / exact position)",
+        "retired": "Profession (including official job title / exact position) before retirement"
+      }
+    },
+    "q4": {
+      "artDealership": "Art, antique dealership / auction house",
+      "carDealership": "Car, boat, airplane dealership",
+      "casinos": "Casinos, gaming establishments / card clubs",
+      "charities": "Charities / foundations / endowments",
+      "civilConstruction": "Civil Construction",
+      "defense": "Defense",
+      "fintech": "Online crypto asset / fintech services",
+      "jewelDealership": "Jewels (i.e. diamonds), precious metal dealership",
+      "label": {
+        "employed": {
+          "adult": "I declare that I am employed in at least one of the following sectors",
+          "minor": "Third party is employed in at least one of the following sectors"
+        },
+        "retired": {
+          "adult": "Industry before retirement",
+          "minor": "Industry before retirement"
+        }
+      },
+      "mining": "Mining",
+      "moneyChanger": "Money changer, transmitter / pawn shop",
+      "none": "None of the above",
+      "nuclear": "Nuclear sector",
+      "oil": "Oil, petroleum, gas",
+      "realEstate": "Real estate brokerage",
+      "transport": "Transport / shipping",
+      "travelAgency": "Travel agency"
+    },
+    "q5": {
+      "label": "Please specify"
+    }
+  },
+  "ProofOfAddress": {
+    "button": "Continue",
+    "header": "Proof of Address",
+    "proofRequirmentsHTML": "<p>Proof of address must be legible and valid.</p><p>Any one of the below documents that contains the residential address can be provided as proof of address:<ul><li>Latest Bills - Telephone bill / Internet bill / Electricity bill / Utility bill</li><li>Tenancy Agreement / Certified Lease Agreement</li><li>Latest Income Tax Notice of Assessment</li><li>Latest Bank statement / other official document / Government issued official paper clearly showing the investor's full name and residential address</li><li>Confirmation letter from employer / investor's bank / Registered Chartered accountant / lawyer.</li></li>Where a monthly or quarterly utility bill is provided, it must be dated within 3 months of its receipt. Where the bill is ordinarily issued only annually then a bill issued within the preceding 12 months can be accepted</li></ul></p>",
+    "q1": {
+      "southAfricaResident": {
+        "adult": "I’m a resident of South Africa",
+        "minor": "Minor is a resident of South Africa"
+      }
+    },
+    "q2": {
+      "usingPoBox": {
+        "adult": "I’m using a PO Box or C/O address",
+        "minor": "Minor is using a PO Box or C/O address"
+      }
+    },
+    "q3": {
+      "proofOfAddressFile": "Proof of address document"
+    },
+    "subheader": "Proof of address is required if either of the below options is \"yes\""
+  },
+  "Review": {
+    "button": "Submit",
+    "clarification": {
+      "supported_files": {
+        "not_provided": "Not provided",
+        "title": "Files uploaded",
+        "uploaded": "uploaded"
+      }
+    },
+    "disclaimer": "I undertake to immediately inform Franklin Templeton when the person(s) designated as beneficial owner(s) change and in general, ensure at all times that each piece of information and each document provided to the Franklin Templeton or Intermediary remains accurate and up-to-date.",
+    "disclaimer_0": "I agree and acknowledge that pursuant to relevant laws and regulations, Franklin Templeton may disclose the above information to a competent regulator or authority if required.",
+    "header": "Review",
+    "intoTitle": "Below information has been collected",
+    "question": {
+      "employment": "Employment status",
+      "isBeneficialOwner": {
+        "adult": "I am the beneficial owner of the purchased Shares / Units",
+        "minor": "Minor is the beneficial owner of the purchased Shares / Units"
+      },
+      "isMinor": "Is a Minor Investor",
+      "phoneNumber": "Phone number",
+      "profession": "Profession",
+      "relationship": "Third party relationship to a Minor",
+      "sector": "Industry",
+      "sourceOfWealth": "Source of funds",
+      "whoProvidedMoney": "Who provided money for the investment"
+    },
+    "subheader": "I declare that the information submitted is true and accurate to the best of my knowledge as of the submission date. I authorise Franklin Templeton to verify the information provided and to seek any references that it may deem necessary."
+  },
+  "SourceOfFunds": {
+    "button": "Continue",
+    "header": "Source of Funds",
+    "q1": {
+      "label": "Please indicate who provided money for the investment",
+      "legalGuardian": "Legal Guardian",
+      "minor": "",
+      "thirdParty": "Third Party"
+    },
+    "q2": {
+      "businessOwnership": "Income from business ownership",
+      "businessProfit": "",
+      "familyIncome": "Family income",
+      "familyIncomeHint": "Select this option if you are a housemaker and the source of funds comes from the income generated by your partner or if you are a student whose investment is funded by the parents/grandparents.",
+      "income": "",
+      "inheritance": "Inheritance / Gift",
+      "investmentProfit": "Profit from investment / Dividend income",
+      "label": "Please indicate the source of the funds/assets used for funding the investments with Franklin Templeton. Please select all that apply to confirm the source of funds.",
+      "lottery": "",
+      "other": "Other incomes",
+      "otherHint": "",
+      "professionalIncome": "Professional salary / retirement pension",
+      "professionalIncomeHint": "If you are retired and the investments were made prior retirement, income will be construed as the revenues generated by your professional activities at the time when the investments were made.",
+      "rentalIncome": "Rental income",
+      "saleOfCompany": "Sale of a company / business",
+      "saleOfProperty": "Sale of a property"
+    },
+    "q3": {
+      "label": "Please specify"
+    },
+    "subheader": "This relates to the source of the funds used to finance investments in the Funds at the time when such investments were made."
+  },
+  "ThankYou": {
+    "header": "Thank You",
+    "text": "<p>Thank you for submitting your information.</p><p>We will review your submission and if anything is unclear or if anything further is required we will contact you using the telephone number and/or email address you have provided.</p>"
+  },
+  "attachFile": "Attach a File",
+  "errors": {
+    "bad_customer_id": {
+      "description": "Please use a valid link to start the process.",
+      "title": "Invalid Customer ID"
+    }
+  },
+  "idVerificationStatus": {
+    "failed": "failed",
+    "inProgress": "in progress",
+    "retryAction": "Retry",
+    "retryHTML": "Apologies, we were not able to verify your document. Please ensure that your document is valid and legible",
+    "title": "ID document",
+    "verified": "verified",
+    "waitHTML": "Please wait, this might take a couple of minutes.<br />Do not close this page!"
+  },
+  "no": "No",
+  "step": "Step {stepNumber} of 7",
+  "uploaded": "Uploaded",
+  "validation": {
+    "requiredInput": "This is a mandatory field",
+    "requiredRadio": "Please select any one of the above options"
+  },
+  "yes": "Yes"
+}

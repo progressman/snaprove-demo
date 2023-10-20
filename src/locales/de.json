@@ -1,0 +1,328 @@
+{
+  "BeneficialOwnerDeclaration": {
+    "button": "Fortsetzen",
+    "header": "Erklärung des wirtschaftlichen Eigentümers",
+    "q1": {
+      "label": {
+        "adult": "Ich erkläre, dass ich der/die wirtschaftlich Berechtigte der erworbenen Anteile bin.",
+        "minor": "Ich erkläre / Wir erklären, dass der/die Minderjährige, der/die wirtschaftliche Berechtigte der erworbenen Anteile ist."
+      }
+    },
+    "q2": {
+      "label": "Bitte erläutern"
+    }
+  },
+  "BirthCertificate": {
+    "button": "Fortsetzen",
+    "header": "Geburtsurkunde",
+    "q1": {
+      "birthCertificateFile": "Geburtsurkunde des/der Minderjährigen"
+    },
+    "subheaderHTML": "<p>Bitte Geburtsurkunde oder Ausweisdokument des Minderjährigen hochladen.</p><p>Das Ausweisdokument muss:<ul><li> amtlich sein,</li><li>gültig (d.h. nicht abgelaufen) sein.</li></ul></p><p>Das Ausweisdokument muss folgende Informationen enthalten:<ul><li>vollständiger Name des Kunden</li><li>Unterschrift</li><li>Geburtsort und -datum</li><li>Foto</li><li>Dokumentnummer</li></ul></p>"
+  },
+  "Clarification": {
+    "addDocument": "Dokumente hinzufügen",
+    "button": "Weiter",
+    "header": "Klarstellung",
+    "q1": {
+      "businessOwnership": "Einkommen aus Unternehmenseigentum – Details",
+      "businessProfit": "Firma / Einzelheiten zum Betriebsgewinn",
+      "familyIncome": "Einzelheiten zum Familieneinkommen",
+      "inheritance": "Einzelheiten zur Erbschaft",
+      "investmentProfit": "Gewinne aus Geldanlagen / Dividenden – Details",
+      "lottery": "Einzelheiten zur Lotterie",
+      "other": "Einzelheiten zu sonstigen Einnahmen",
+      "rentalIncome": "Mieteinnahmen – Details",
+      "saleOfCompany": "Veräußerung eines Unternehmens / Geschäftsinformationen",
+      "saleOfProperty": "Einzelheiten zur Veräußerung einer Immobilie"
+    },
+    "q2": {
+      "help": "Hinweis: Wenn uns nicht genügend Belegdokumente vorliegen, wenden wir uns eventuell zur weiteren Klärung an sie.",
+      "label": "Unterstützten Dokumente"
+    },
+    "sources": {
+      "businessOwnership": "Nennen Sie bitte Einzelheiten zum Unternehmen (Firmenname, Adresse, Handelsregisterauszug, Art der Geschäftstätigkeit), die Beziehung zum Unternehmen (Beteiligung am Unternehmen in %) und stellen sie eine Kopie des letzten geprüften Jahresabschlusses, eine Kopie der letzten Geschäftsbücher und das Steuererklärungsformular zur Verfügung.",
+      "businessProfit": "Geben Sie bitte Einzelheiten zum Unternehmen (Firmenname, Adresse, Handelsregisterauszug, Art der Geschäftstätigkeit), die Beziehung zum Unternehmen (Beteiligung am Unternehmen in %), eine Kopie des letzten geprüften Jahresabschlusses, Kopie der letzten Geschäftsbücher, Steuererklärungsformular an.",
+      "familyIncome": "In welchem Verhältnis stehen Sie zu der Person, die die Investition finanzierte? Bitte geben Sie den Berufsstand des Geldgebers an.",
+      "inheritance": "Geben Sie bitte den geerbten Betrag, das Datum der Erbschaft, den Namen und die Adresse des Testamentsvollstreckers, die Beziehung zum Erblasser an und legen eine gerichtliche Bescheinigung über die Testamentsvollstreckung (mit einer Kopie des Testaments) vor, die den Wert des Nachlasses enthalten muss, oder Bankauszüge oder ein Anwaltsschreiben.",
+      "investmentProfit": "Bitte legen Sie einen Kontoauszug des Bevollmächtigten und die Transaktionsquittung/-bestätigung (Abschlussrechnung) bei.",
+      "lottery": "Geben Sie bitte den Gesamtbetrag des Gewinns, das Gewinndatum sowie den Namen und die Adresse der Organisation an, die Ihnen den Gewinn verliehen hat, und legen Sie gegebenenfalls ein Schreiben oder Kopien der Medienberichterstattung von der Organisation vor, die Ihnen den Gewinn verliehen hat.",
+      "other": "Legen Sie bitte eine Vertragskopie, einen Kontoauszug des Bevollmächtigten, die Transaktionsquittung/-bestätigung (Vertragsnotiz) bei.",
+      "rentalIncome": "Bitte stellen Sie eine Vertragskopie zur Verfügung.",
+      "saleOfCompany": "Geben Sie bitte den Namen, den Geschäftszweck des Unternehmens, das Datum der Veräußerung sowie den Verkaufserlös an und legen Sie ein von einem Anwalt oder Steuerberater unterzeichnetes Schreiben oder gegebenenfalls Kopien der Medienberichterstattung vor.",
+      "saleOfProperty": "Geben Sie bitte die Adresse der Immobilie, das Veräußerungsdatum und den Verkaufserlös an und legen Sie ein vom Anwalt unterzeichnetes Schreiben oder einen Verkaufsvertrag vor."
+    },
+    "subheader": "Bitte machen Sie zusätzliche Angaben, die sich auf Ihre Antworten beziehen:"
+  },
+  "CustomerInformation": {
+    "button": "Fortsetzen",
+    "caseId": "Bearbeitungsnummer",
+    "caseIdHelp": "Die Bearbeitungsnummer finden Sie auf dem Kundeninformationsformular.",
+    "error": {
+      "caseId": "Die Bearbeitungsnummer besteht aus einem Grossbuchstaben gefolgt von 9 Ziffern ohne Leerschritt und ohne Sonderzeichen"
+    },
+    "header": "Kundeninformation",
+    "isMinor": "Bitte bestätigen, falls die eingegebenen Informationen zu einem minderjährigen Investor gehören",
+    "partyNumberHelp": "Ihre Kundennummer finden Sie auf Ihren Kontoauszügen  von Franklin Templeton.",
+    "shareholderName": "Kundenname",
+    "shareholderNameHelp": "Bitte geben Sie den Kundenname wie im Ausweisdokument ein.",
+    "shareholderPartyNumber": "Kundennummer"
+  },
+  "EmailVerification": {
+    "button": {
+      "getCode": "Code anfordern",
+      "resend": "Erneut Senden",
+      "skip": "Überspringen",
+      "verify": "Bestätigen"
+    },
+    "error": {
+      "confirmationCode": "Bitten gültigen Code eingeben",
+      "email": "Bitte gültige E-Mail Adresse eingeben"
+    },
+    "header": "E-Mail Überprüfung",
+    "q1": {
+      "label": "E-Mail Adresse"
+    },
+    "q2": {
+      "label": "Bestätigungscode"
+    },
+    "subheader": "Wir verwenden diese E-Mail ausschließlich für zukünftige Geschäftkorrespondenz mit Ihnen und nicht für Marketingzwecke."
+  },
+  "Error": {
+    "button": "Wiederholen",
+    "header": "Fehler",
+    "type": {
+      "bad_customer_id": {
+        "description": "Bitte nutzen Sie einen gültigen Link ",
+        "title": "Bearbeitungsnummer nicht angegeben"
+      },
+      "check-failed": {
+        "description": "Sie haben mehrmals versucht diesen Schritt unter Verwendung der gleichen Mobiltelefonnummer abzuschließen. Bitte warten Sie eine Weile oder kontaktieren unseren Kundenservice.",
+        "title": "Limit ist erreicht"
+      },
+      "limit-reached": {
+        "description": "Sie haben mehrmals versucht diesen Schritt unter Verwendung der gleichen Mobiltelefonnummer abzuschließen. Bitte warten Sie eine Weile oder kontaktieren unseren Kundenservice.",
+        "title": "Limit ist erreicht"
+      },
+      "network_error": {
+        "description": "Bitte Internetverbindung überprüfen und erneut versuchen.",
+        "title": "Keine Internetverbindung"
+      },
+      "universal": {
+        "description": "Bitte versuchen Sie es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an den Kundensupport."
+      }
+    }
+  },
+  "Intro": {
+    "body": "<p>Vielen Dank, dass Sie sich entschieden haben, Ihre Know your Customer (KYC)-Daten online zu übermitteln.</p><p>Sie werden gleich aufgefordert, die erforderlichen Informationen und Dokumente hochzuladen. Es können nur farbige Kopien /Dokumente hochgeladen werden. Bitte lesen Sie sich die per E-Mail / Post erhaltenden Anweisungen durch, und halten Sie die erforderlichen Informationen / Dokumente bereit, bevor Sie fortfahren.</p><p>Zur biometrischen Gesichtsüberprüfung werden Sie aufgefordert Ihr Gesicht der Online-Kamera zu zeigen, um Ihre Anwesenheit zu überprüfen. Ihr Bild wird automatisch erfasst und nur zur Verifikation während dieses Prozesses verwendet.Dies ist die empfohlene Option, da sie den Verifizierungsprozess beschleunigt und sicherstellt, dass wir im Regelfall keine weiteren Ausweisdokumente von Ihnen nachfordern müssen.</p>",
+    "button": "BESTÄTIGEN UND WEITER",
+    "header": "Hallo"
+  },
+  "Netverify": {
+    "CTA": "Bitte Ausweisdokument bereithalten und start klicken.",
+    "button": "Start",
+    "header": "Verifikation beginnen",
+    "q1": {
+      "idAndFace": "Mit Ausweisdokument und biometrischer Gesichtserkennung verifizieren (empfohlen)",
+      "idAndFaceHint": "Nach dem Scannen / Hochladen Ihres Ausweisdokuments werden Sie aufgefordert, Ihr Gesicht der Online-Kamera zu zeigen, wo durch Live-Erkennung Ihre Anwesenheit überprüft und Ihr Bild automatisch erfasst wird. Unsere Gesichtsverifizierungstechnologie bietet eine optimale Identifikationsgenauigkeit und ermöglicht uns, die hochgeladene Ausweiskopie mit dem aufgenommenen Bild abzugleichen. Dies beschleunigt den Verifizierungsprozess und macht es überflüssig, dass Sie uns Ausweisdokumente in Papierform vorlegen müssen.",
+      "idOnly": "Nur mit Ausweisdokument verifizieren",
+      "idOnlyHint": "Bei dieser Option müssen Sie nur Ihr Ausweisdokument scannen/hochladen und werden nicht durch den Teil \"Gesichtsverifizierung\" des Prozesses geführt. Nachdem wir die gescannte Kopie Ihres Ausweisdokuments überprüft haben, müssen wir Sie ggf. kontaktieren, um eine weitere Verifizierung anzufordern, die darin bestehen könnte, dass Sie uns eine beglaubigte Kopie Ihres Ausweisdokuments schicken müssen.",
+      "label": "Bitte eine der beiden Optionen auswählen"
+    },
+    "subheaderHTML": "<p>Um Ihre Identität zu bestätigen, müssen Sie einen Scan oder Foto Ihres Ausweisdokuments hochladen </p>"
+  },
+  "PhoneVerification": {
+    "button": {
+      "getCodeViaSMS": "Code anfordern",
+      "getCodeViaCall": "Code per Telefonanruf erhalten",
+      "resend": "Erneut Senden",
+      "verify": "Bestätigen"
+    },
+    "error": {
+      "confirmationCode": "Bitte gültigen Code eingeben",
+      "phoneNumber": "Bitte gültige Telefonnummer eingeben"
+    },
+    "header": "Verfikation mit Mobiltelefonnummer",
+    "q1": {
+      "help": "Mobiltelefonnummer eingeben um 6-stelligen Bestätigungscode zu erhalten.",
+      "label": "Telefonnummer",
+      "placeholder": "Mobiltelefonnummer"
+    },
+    "q2": {
+      "label": "Bestätigungscode"
+    },
+    "subheader": "Wir verwenden diese Telefonnumer ausschließlich für zukünftige Geschäftkorrespondenz mit Ihnen und nicht für Marketingzwecke.",
+    "timeLeft": "Code läuft ab in "
+  },
+  "Profession": {
+    "button": "Fortsetzen",
+    "header": {
+      "adult": "Beruf und Branche",
+      "minor": "Informationen Dritter"
+    },
+    "q1": {
+      "aunt": "Tante",
+      "brother": "Bruder",
+      "grandparent": "Großelternteil",
+      "label": "Bitte die Beziehung Dritter zum Minderjährigen auswählen",
+      "sister": "Schwester",
+      "uncle": "Onkel"
+    },
+    "q2": {
+      "employed": "Beschäftigt",
+      "label": {
+        "adult": "Sie sind derzeit",
+        "minor": "Dritte sind derzeit"
+      },
+      "retired": "im Ruhestand",
+      "unemployed": "Arbeitslos / Hausfrau, Hausmann / Studierende/r"
+    },
+    "q3": {
+      "label": {
+        "employed": "Beruf",
+        "retired": "Beruf vor Ruhestand"
+      }
+    },
+    "q4": {
+      "artDealership": "Kunsthandel, Antiquitätenhandel / Auktionshaus",
+      "carDealership": "Auto-, Boots-, Flugzeughandel",
+      "casinos": "Speilbank / Spielkasino",
+      "charities": "Wohltätigkeitsorganisationen / Stiftungen ",
+      "civilConstruction": "Bauarbeit",
+      "defense": "Verteidigung",
+      "fintech": "Online-Kryptowährung / Finanztechnologie",
+      "jewelDealership": "Juwelenhandel (z.B. Diamanten), Edelmetallhandel",
+      "label": {
+        "employed": {
+          "adult": "Ich bestätige, dass ich in mindestens einem der folgenden Sektoren beschäftigt bin",
+          "minor": "Dritte sind in mindestens einem der folgenden Sektoren beschäftigt"
+        },
+        "retired": {
+          "adult": "Branche vor der Pensionierung",
+          "minor": "Branche vor der Pensionierung"
+        }
+      },
+      "mining": "Bergbau",
+      "moneyChanger": "Geldwechsel / Pfandhaus",
+      "none": "Keine der hier genannten",
+      "nuclear": "Atomindustrie",
+      "oil": "Öl-und Gasindustrie",
+      "realEstate": "Immobilienmakler",
+      "transport": "Transport / Schiffahrt",
+      "travelAgency": "Reiseagentur"
+    },
+    "q5": {
+      "label": "Bitte erläutern"
+    }
+  },
+  "ProofOfAddress": {
+    "button": "Fortsetzen",
+    "header": "Adressennachweis",
+    "proofRequirmentsHTML": "<p>Der Adressnachweis muss lesbar und gültig sein.</p><p>Jedes der unten aufgezählten Dokumente, das die Anschrift enthält, gilt als Adressnachweis:<ul><li>Letzte Rechnungen - Telefonrechnung / Internetrechnung / Gas-, Wasser- oder Stromrechnung</li><li>Mietvertrag / Leasingvertrag</li><li>Aktueller Steuerbescheid</li><li>Aktueller Kontoauszug / amtliches Dokument, aus dem der vollständige Name und die Anschrift eindeutig hervorgeht</li><li>Bestätigungsschreiben des Arbeitgebers / der Bank / eingetragenen Wirtschaftsprüfers / Rechtsanwalts<br />Wenn eine monatliche oder vierteljährliche Rechnung vorgelegt, muss diese innerhalb von 3&nbsp;Monaten nach Erhalt datiert sein. Wenn die Rechnung nur jährlich ausgestellt wird, kann eine Rechnung akzeptiert werden, die innerhalb der vorangegangenen 12&nbsp;Monate ausgestellt wurde</li></ul></p>",
+    "q1": {
+      "southAfricaResident": {
+        "adult": "Ich wohne in Südafrika",
+        "minor": "Die minderjährige Person ist in Südafrika ansässig"
+      }
+    },
+    "q2": {
+      "usingPoBox": {
+        "adult": "Ich verwende ein Postfach oder eine C/O-Adresse",
+        "minor": "Die minderjährige Person nutzt ein Postfach oder eine „per“ Adresse (c/o)"
+      }
+    },
+    "q3": {
+      "proofOfAddressFile": "Adressnachweisdokument"
+    },
+    "subheader": "Ein Adressnachweis ist erforderlich, wenn eine der folgenden Optionen \"Ja\" lautet."
+  },
+  "Review": {
+    "button": "Abschicken",
+    "clarification": {
+      "supported_files": {
+        "not_provided": "k. A.",
+        "title": "Hochgeladene Dateien",
+        "uploaded": "hochgeladen"
+      }
+    },
+    "disclaimer": "Ich/Wir verpflichte(n) mich(uns), Franklin Templeton unverzüglich zu informieren, wenn die als wirtschaftlich Berechtigte angegebenen Personen sich ändern, und grundsätzlich jederzeit sicherzustellen, dass alle Informationen und Dokumente, die Franklin Templeton oder Vermittlern bereitgestellt werden, korrekt und aktuell sind.",
+    "disclaimer_0": "Ich willige ein und bestätige, dass Franklin Templeton die oben angegebenen Informationen gemäß den maßgebenden Gesetzen und Bestimmungen gegebenenfalls gegenüber einer zuständigen Aufsichtsbehörde oder staatlichen Stelle offenlegen darf.",
+    "header": "Zusammenfassung",
+    "intoTitle": "Die folgenden Informationen wurden gesammelt",
+    "question": {
+      "employment": "Beschäftigungsstatus",
+      "isBeneficialOwner": {
+        "adult": "Ich bin der wirtschaftliche Berechtigte der erworbenen Anteile",
+        "minor": "Minderjährige/r ist der/die wirtschaftlich Berechtigte der erworbenen Anteile"
+      },
+      "isMinor": "Anleger/in ist minderjährig",
+      "phoneNumber": "Telefonnummer",
+      "profession": "Beruf",
+      "relationship": "Beziehung Dritter zum Minderjährigen",
+      "sector": "Branche",
+      "sourceOfWealth": "Vermögensquelle",
+      "whoProvidedMoney": "Das Geld für die Investition wurde bereitgestellt von"
+    },
+    "subheader": "Wir bestätigen hiermit die Korrektheit und Vollständigkeit der hier angebenen Informationen und die Lesbarkeit der mit diesem Antragsformular eingereichten Dokumente."
+  },
+  "SourceOfFunds": {
+    "button": "Fortsetzen",
+    "header": "Herkunft der Mittel",
+    "q1": {
+      "label": "Bitte angeben, wer Geld für die Investition bereitgestellt hat",
+      "legalGuardian": "Erziehungsberechtigter",
+      "minor": "Minderjähriger",
+      "thirdParty": "Dritter"
+    },
+    "q2": {
+      "businessOwnership": "Einkommen aus Unternehmenseigentum",
+      "businessProfit": "Firma / Betriebsgewinn",
+      "familyIncome": "Familieneinkommen",
+      "familyIncomeHint": "Wählen Sie diese Option, wenn Sie eine Hausfrau/ein Hausmann sind und die Mittel aus dem Einkommen Ihrer Partnerin/Ihres Partners stammen oder ein Studierender sind, dessen Anlage von den Eltern/Großeltern finanziert wird.",
+      "income": "Einkommen",
+      "inheritance": "Erbschaft",
+      "investmentProfit": "Gewinne aus Geldanlagen / Dividenden",
+      "label": "Bitte geben Sie die Herkunft des Vermögens für Investitionen bei Franklin Templeton an",
+      "lottery": "Lotterie",
+      "other": "Sonstige Einnahmen",
+      "otherHint": "z. B. Mieteinkommen, Finanzeinkommen / Dividenden, Veräußerung von Anteilen oder anderen Anlagen",
+      "professionalIncome": "Erwerbseinkommen / Rente",
+      "professionalIncomeHint": "Falls Sie in Rente sind und die Anlagen vor Ihrem Rentenantritt getätigt haben, gelten als Einkommen die Einkünfte aus Ihrer beruflichen Tätigkeit zu dem Zeitpunkt, zu dem die Anlagen getätigt wurden.",
+      "rentalIncome": "Mieteinnahmen",
+      "saleOfCompany": "Verkauf eines Unternehmens / Geschäfts",
+      "saleOfProperty": "Verkauf einer Immobilie"
+    },
+    "q3": {
+      "label": "Bitte erläutern Sie die Herkunft des Vermögens "
+    },
+    "subheader": "Dies bezieht sich auf die Herkunft der Mittel, die zur Finanzierung von Anlagen in die Fonds zum Zeitpunkt verwendet wurden, zu dem sie getätigt wurden."
+  },
+  "ThankYou": {
+    "header": "Vielen Dank",
+    "text": "<p>Vielen Dank für Ihre Informationen.</p><p>Ihre Einreichung wird überprüft. Bei Rückfragen oder für weitere Informationen, werden wir Sie gegebenfalls unter der von Ihnen angegebenen Telefonnummer / E-Mail-Adresse kontaktieren.</p>"
+  },
+  "attachFile": "Datei anhängen",
+  "errors": {
+    "bad_customer_id": {
+      "description": "Bitte gültigen Link verwenden um zu starten",
+      "title": "ungültige Bearbeitungsnummer"
+    }
+  },
+  "idVerificationStatus": {
+    "failed": "fehlgeschlagen",
+    "inProgress": "wird bearbeitet",
+    "retryAction": "Erneut versuchen",
+    "retryHTML": "Leider konnte das Dokument nicht verifiziert werden. Bitte stellen Sie sicher, dass das Dokument lesbar und gültig ist",
+    "title": "Ausweisdokument",
+    "verified": "verifiziert",
+    "waitHTML": "Bitte warten, es kann einige Minuten dauern.<br /> Schließen Sie diese Seite nicht!"
+  },
+  "no": "Nein",
+  "step": "Schritt {stepNumber} von 7",
+  "uploaded": "Hochgeladen",
+  "validation": {
+    "requiredInput": "Pflichtfeld",
+    "requiredRadio": "Bitte eine der genannten Optionen wählen"
+  },
+  "yes": "Ja"
+}
